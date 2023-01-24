@@ -51,84 +51,85 @@
 
 ### Модуль 4. Среда UNIX
 ***
-**Занятие 20. Фильтрация трафика**  
-*Задание:* [Сценарии iptables](https://github.com/che-a/OTUS_LinuxAdministrator/tree/master/tasks/20)
+**Занятие 14. История, философия и основы работы в UNIX**  
+*Задание:* []()
 
-**Занятие 20. Фильтрация трафика**  
-*Задание:* [Сценарии iptables](https://github.com/che-a/OTUS_LinuxAdministrator/tree/master/tasks/20)
+**Занятие 15. Стандарт POSIX и программирование под UNIX**  
+*Задание:* []()
 
-**Занятие 20. Фильтрация трафика**  
-*Задание:* [Сценарии iptables](https://github.com/che-a/OTUS_LinuxAdministrator/tree/master/tasks/20)
+**Занятие 16. Введение в процессы**  
+*Задание:* []()
 
-**Занятие 20. Фильтрация трафика**  
-*Задание:* [Сценарии iptables](https://github.com/che-a/OTUS_LinuxAdministrator/tree/master/tasks/20)
+**Занятие 17. Демоны UNIX**  
+*Задание:* []()
 
 
 ### Модуль 5. Процессы в C
 ***
-**Занятие 20. Фильтрация трафика**  
-*Задание:* [Сценарии iptables](https://github.com/che-a/OTUS_LinuxAdministrator/tree/master/tasks/20)
+**Занятие 18. Взаимодействие между процессами**  
+*Задание:* []()
 
-**Занятие 20. Фильтрация трафика**  
-*Задание:* [Сценарии iptables](https://github.com/che-a/OTUS_LinuxAdministrator/tree/master/tasks/20)
+**Занятие 19. Разделяемая память**  
+*Задание:* []()
 
 
 ### Модуль 6. Многопоточность в C
 ***
-**Занятие 20. Фильтрация трафика**  
-*Задание:* [Сценарии iptables](https://github.com/che-a/OTUS_LinuxAdministrator/tree/master/tasks/20)
+**Занятие 20. Введение в потоки**  
+*Задание:* []()
 
-**Занятие 20. Фильтрация трафика**  
-*Задание:* [Сценарии iptables](https://github.com/che-a/OTUS_LinuxAdministrator/tree/master/tasks/20)
+**Занятие 21. Механизмы синхронизации**  
+*Задание:* []()
 
-**Занятие 20. Фильтрация трафика**  
-*Задание:* [Сценарии iptables](https://github.com/che-a/OTUS_LinuxAdministrator/tree/master/tasks/20)
+**Занятие 22. Функции в многопоточных приложениях**  
+*Задание:* []()
 
 
 ### Модуль 7. Сетевое взаимодействие
 ***
-**Занятие 20. Фильтрация трафика**  
-*Задание:* [Сценарии iptables](https://github.com/che-a/OTUS_LinuxAdministrator/tree/master/tasks/20)
+**Занятие 23. Сетевое взаимодействие**  
+*Задание:* []()
 
-**Занятие 20. Фильтрация трафика**  
-*Задание:* [Сценарии iptables](https://github.com/che-a/OTUS_LinuxAdministrator/tree/master/tasks/20)
+**Занятие 24. Асинхронные сетевые интерфейсы**  
+*Задание:* []()
 
-**Занятие 20. Фильтрация трафика**  
-*Задание:* [Сценарии iptables](https://github.com/che-a/OTUS_LinuxAdministrator/tree/master/tasks/20)
+**Занятие 25. Веб-сервисы**  
+*Задание:* []()
 
 
 ### Модуль 8. Микроконтроллеры
 ***
-**Занятие 20. Фильтрация трафика**  
-*Задание:* [Сценарии iptables](https://github.com/che-a/OTUS_LinuxAdministrator/tree/master/tasks/20)
+**Занятие 26. Введение в микроконтроллеры**  
+*Задание:* []()
 
-**Занятие 20. Фильтрация трафика**  
-*Задание:* [Сценарии iptables](https://github.com/che-a/OTUS_LinuxAdministrator/tree/master/tasks/20)
+**Занятие 27. Введение в Ардуино**  
+*Задание:* []()
 
-**Занятие 20. Фильтрация трафика**  
-*Задание:* [Сценарии iptables](https://github.com/che-a/OTUS_LinuxAdministrator/tree/master/tasks/20)
+**Занятие 28. Разработка приложений на Ардуино**  
+*Задание:* []()
 
 
 ### Модуль 9. Работа с базами данных
 ***
-**Занятие 20. Фильтрация трафика**  
-*Задание:* [Сценарии iptables](https://github.com/che-a/OTUS_LinuxAdministrator/tree/master/tasks/20)
+**Занятие 29. Современные СУБД**  
+*Задание:* []()
 
-**Занятие 20. Фильтрация трафика**  
-*Задание:* [Сценарии iptables](https://github.com/che-a/OTUS_LinuxAdministrator/tree/master/tasks/20)
+**Занятие 30. Работа с СУБД из C**  
+*Задание:* []()
 
 
 ### Модуль 10. Создание игр
 ***
-**Занятие 20. Фильтрация трафика**  
-*Задание:* [Сценарии iptables](https://github.com/che-a/OTUS_LinuxAdministrator/tree/master/tasks/20)
+**Занятие 31. Библиотека DirectX и OpenGL**  
+*Задание:* []()
 
-**Занятие 20. Фильтрация трафика**  
-*Задание:* [Сценарии iptables](https://github.com/che-a/OTUS_LinuxAdministrator/tree/master/tasks/20)
+**Занятие 32. Работа с устройства ввода**  
+*Задание:* []()
 
-**Занятие 20. Фильтрация трафика**  
-*Задание:* [Сценарии iptables](https://github.com/che-a/OTUS_LinuxAdministrator/tree/master/tasks/20)
+**Занятие 33. Интерактивность в играх**  
+*Задание:* []()
 
 
 ### Модуль 11. Проектная работа
 ***
+*Проектная работа:* []()
