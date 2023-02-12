@@ -1,6 +1,7 @@
 # Стандартная библиотека
 
 ### Оглавление
+- [Файл `limits.h`](#limits) —  
 - [Файл `stdio.h`](#stdio) — объявления функций ввода/вывода (I/O).  
   - [Макросы](#stdio_macro)  
   - [Функции](#stdio_funcs)  
@@ -8,6 +9,8 @@
   - [Макросы](#stdlib_macro)  
   - [Функции](#stdlib_funcs)   
  
+
+## Файл `limits.h` <a name="limits"></a>
 
 ## Файл `stdio.h` <a name="stdio"></a>
 ### Макросы <a name="stdio_macro"></a>
@@ -19,8 +22,8 @@
 
 ## Файл `stdlib.h` <a name="stdlib"></a>
 ### Макросы <a name="stdlib_macro"></a>
-- `EOF`, отрицательное целое число.
-- `EXIT_FAILURE`, соответствует ненулевому числу.  
-- `EXIT_SUCCESS`,  
+- `EOF`, -1, отрицательное целое число.
+- `EXIT_FAILURE`, 1, соответствует ненулевому числу.  
+- `EXIT_SUCCESS`, обычно разворачивается в 0 и, как правило, имеет определение: `#define EXIT_SUCCESS 0`.  
 
 ### Функции <a name="stdlib_funcs"></a>
