@@ -4,7 +4,6 @@
 [gcc](https://gcc.gnu.org/)
 ```sh
 apt-get install gcc
-
 gcc --version
 ```
 #### Компиляция и запуск
@@ -12,9 +11,12 @@ gcc --version
 cc hello.c
 ./a.out
 
-# Или так
+# Другой вариант
 cc -o hello hello.c
 ./hello
+
+# Другой вариант
+cc -Wall -Wextra -Wpedantic -std=c11 -o main main.c 
 ```
 
 
@@ -22,6 +24,5 @@ cc -o hello hello.c
 [clang](https://clang.llvm.org/)
 ```sh
 apt-get install clang
-
 clang --version
 ```
