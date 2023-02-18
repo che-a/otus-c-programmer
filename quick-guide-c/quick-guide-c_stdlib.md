@@ -1,6 +1,7 @@
 # Стандартная библиотека
 
 ### Оглавление
+- [Файл `conio.h`](#conio) —  
 - [Файл `limits.h`](#limits) —  
 - [Файл `stdio.h`](#stdio) — объявления функций ввода/вывода (I/O).  
   - [Макросы](#stdio_macro)  
@@ -9,6 +10,7 @@
   - [Макросы](#stdlib_macro)  
   - [Функции](#stdlib_funcs)   
  
+## Файл `conio.h` <a name="conio"></a>
 
 ## Файл `limits.h` <a name="limits"></a>
 
