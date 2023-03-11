@@ -6,9 +6,9 @@
 
 ### Модуль 1. Современный C
 ---
-Занятие 1. [Инструментарии разработки](https://github.com/che-a/otus-c-programmer/blob/master/tasks/01/)  
+Занятие 1. [Инструментарии разработки](https://github.com/che-a/otus-c-programmer/blob/master/tasks/01/README.md)  
 
-Занятие 2. [Основные конструкции](https://github.com/che-a/otus-c-programmer/blob/master/tasks/02/)
+Занятие 2. [Основные конструкции](https://github.com/che-a/otus-c-programmer/blob/master/tasks/02/README.md)
 
 Занятие 3. Типы данных  
 <!-- TODO-IST:START -->
