@@ -1,14 +1,14 @@
 # otus-c-programmer
 Репозиторий с выполненными мною домашними заданиями по курсу [&laquo;Программист C&raquo;](https://otus.ru/lessons/dev_c/) на платформе [OTUS](https://otus.ru/).  
 
-К каждому домашнему заданию прилагается свой `README.md`-файл с детальным описанием условия задачи и хода ее выполнения. Для некоторых занятий домашние задания не предусмотрены программой курса.
+К каждому домашнему заданию прилагается файл `README.md` с постановкой задачи. Не для всех занятий курса предусмотрены домашние задания.
 
 
 ### Модуль 1. Современный C
 ---
-Занятие 1. [Инструментарии разработки](https://github.com/che-a/otus-c-programmer/blob/master/tasks/01/)  
+Занятие 1. [Инструментарии разработки](https://github.com/che-a/otus-c-programmer/blob/master/tasks/01/README.md)  
 
-Занятие 2. [Основные конструкции](https://github.com/che-a/otus-c-programmer/blob/master/tasks/02/)
+Занятие 2. [Основные конструкции](https://github.com/che-a/otus-c-programmer/blob/master/tasks/02/README.md)
 
 Занятие 3. Типы данных  
 <!-- TODO-IST:START -->
@@ -20,7 +20,7 @@
 <!-- TODO-IST:END -->
 Занятие 5. Стандарты C90/C99/C11  
 
-Занятие 6. Современные практики программирования на C  
+Занятие 6. [Современные практики программирования на C](https://github.com/che-a/otus-c-programmer/blob/master/tasks/06/README.md)    
 
 
 ### Модуль 2. Сложные структуры данных
