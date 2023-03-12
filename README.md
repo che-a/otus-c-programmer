@@ -32,9 +32,9 @@
 
 ### Модуль 3. Методики программирования
 ---
-Занятие 9. [Библиотеки языка C](https://github.com/che-a/otus-c-programmer/blob/master/tasks/09)  
+Занятие 9. [Библиотеки языка C](https://github.com/che-a/otus-c-programmer/blob/master/classes/09)  
 <!-- TODO-IST:START -->
-* [ ] *Задание: [Написать программу, скачивающую текущие погодные данные с API wttr.in для заданного аргументом командной строки города.]()*  
+* [ ] *Задание: [Написать программу, скачивающую текущие погодные данные с API wttr.in для заданного аргументом командной строки города.](https://github.com/che-a/otus-c-programmer/blob/master/tasks/09)*  
 <!-- TODO-IST:END -->
 
 Занятие 10. Препроцессор  
