@@ -26,3 +26,13 @@
 ### Выполнение <a name="completion"></a>
 #### Описание предметной области <a name="subject_area"></a>
 [Статья на OpenNET: Просмотр прогноза погоды из терминала](https://www.opennet.ru/tips/info/3013.shtml)
+
+Полный список доступных опций можно посмотреть на странице /:help:
+```sh
+curl wttr.in/:help
+```
+Получение данных в формате JSON:
+```sh
+curl wttr.in/Moscow?format=j1
+curl 'wttr.in/ego?format=j1&1q' > weather.json
+```
