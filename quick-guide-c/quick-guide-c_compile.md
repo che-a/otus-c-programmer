@@ -31,6 +31,9 @@ cc -o hello hello.c
 Компиляция с опциями:
 ```sh
 cc -Wall -Wextra -Wpedantic -std=c11 -o hello hello.c 
+
+# Сборка файла исходного кода snippet.c в исполняемый бинарный файл snippet, обеспечивая выполнение многих предупреждающих проверок, значительных, но разумных оптимизаций, а также отладку. 
+gcc -Wall -Wextra -O2 -g -o snippet snippet.c
 ```
 
 
