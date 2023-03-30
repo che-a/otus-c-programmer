@@ -17,9 +17,9 @@ void swap(int, int);
 int main(void){
     int a = 21, b = 17;
 
-    printf("main: a = %d, b = %d\n", a, b);
-    swap(a, b);
-    printf("main: a = %d, b = %d\n", a, b);
+    printf("main: a = %d, b = %d\n", a, b); // main: a = 21, b = 17
+    swap(a, b);                             // swap: a = 17, b = 21
+    printf("main: a = %d, b = %d\n", a, b); // main: a = 21, b = 17
 
     return EXIT_SUCCESS;
 }
@@ -42,9 +42,9 @@ void swap(int*, int*);
 int main(void){
     int a = 21, b = 17;
 
-    printf("main: a = %d, b = %d\n", a, b);
-    swap(&a, &b);
-    printf("main: a = %d, b = %d\n", a, b);
+    printf("main: a = %d, b = %d\n", a, b); // main: a = 21, b = 17
+    swap(&a, &b);                           // swap: a = 17, b = 21
+    printf("main: a = %d, b = %d\n", a, b); // main: a = 17, b = 21
 
     return EXIT_SUCCESS;
 }
