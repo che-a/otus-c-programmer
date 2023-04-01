@@ -14,9 +14,10 @@
 <!-- TODO-IST:START -->
 * [ ] *Задание: [Написать программу, определяющую является ли заданный файл т.н. Rarjpeg-ом.]()*  
 <!-- TODO-IST:END -->
+
 Занятие 4. Типы данных (продолжение)  
 <!-- TODO-IST:START -->
-* [ ] *Задание: [Написать конвертор из заданной кодировки в UTF-8.](https://github.com/che-a/otus-c-programmer/blob/master/tasks/04/README.md)*  
+* [ ] *Задание: [Написать конвертор из заданной кодировки в UTF-8.](https://github.com/che-a/otus-c-programmer/tree/master/tasks/04)*  
 <!-- TODO-IST:END -->
 Занятие 5. Стандарты C90/C99/C11  
 
