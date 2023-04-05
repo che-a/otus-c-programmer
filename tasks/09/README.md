@@ -36,3 +36,5 @@ curl wttr.in/:help
 curl wttr.in/Moscow?format=j1
 curl 'wttr.in/ego?format=j1&1q' > weather.json
 ```
+Пример использования:
+https://lecturesnet.readthedocs.io/net/requests/c.html?ysclid=lg3yf16eb816592222#wttr-in
