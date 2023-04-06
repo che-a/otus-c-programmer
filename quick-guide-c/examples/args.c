@@ -1,10 +1,12 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 int main (int argc, char * argv[]) {
+    printf("basename: %s\n", argv[0]);
 
-    for(int i = 0 ; i < argc; i++) {
-        printf("Аргумент %d: %s\n", i, argv[i]);
+    for(int i = 1; i < argc; i++) {
+        printf("Arg %d: %s\n", i, argv[i]);
     }
 
-    return 0;
+    return EXIT_SUCCESS;
 }
