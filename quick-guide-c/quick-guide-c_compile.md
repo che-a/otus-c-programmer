@@ -53,3 +53,57 @@ gcc -Wall -Wextra -O2 -g -o hello hello.c
 apt-get install clang
 clang --version
 ```
+
+
+## Компиляция
+Пример файла Makefile:
+```makefile
+CC=gcc
+CFLAGS=-Wall -Wextra -Wpedantic -std=c11
+
+BIN=main
+
+all: $(BIN)
+
+%: %.c
+	$(CC) $(CFLAGS) $< -o $@ -lcurl
+
+clean:
+	$(RM) -rf $(BIN) *.dSYM
+```
+
+```c
+//#include "curl-8.0.1/include/curl/curl.h"
+#include <curl/curl.h>
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void){
+    CURL *curl = curl_easy_init();
+    if(!curl) {
+        fprintf(stderr, "Init failed\n");
+        return EXIT_FAILURE;
+    }
+    
+    //set options
+    curl_easy_setopt(curl, CURLOPT_URL, "https://zbbx-sargp.ru");
+    curl_easy_setopt(curl, CURLOPT_SSL_VERIFYPEER, 0);  // Для незащищённых TLS-соединений
+    
+    // Выполнить действие
+    CURLcode result = curl_easy_perform(curl);
+    printf("=== DEBUG ===: %d", result);
+    
+    if (result != CURLE_OK){
+        fprintf(stderr, "Download problem: %s\n", curl_easy_strerror(result));
+    }
+    
+    curl_easy_cleanup(curl);    
+    return EXIT_SUCCESS;
+}
+
+```
+
+```bash
+make
+make clean
+```
