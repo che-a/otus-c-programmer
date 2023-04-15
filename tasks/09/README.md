@@ -23,16 +23,14 @@
 - Код компилируется без предупреждений с ключами компилятора `-Wall` `-Wextra` `-Wpedantic` `-std=c11`.
 - Далее успешность определяется ревью кода.
 
+
 ### Выполнение <a name="completion"></a>
 #### Работа с ресурсом `wttr.in`<a name="wttr_in"></a>
-
-
-Полный список доступных опций можно посмотреть на странице /:help:
 ```sh
+# Полный список доступных опций
 curl wttr.in/:help
-```
-Получение данных в формате JSON:
-```sh
+
+# Получение данных в формате JSON:
 curl wttr.in/Moscow?format=j1
 curl 'wttr.in/ego?format=j1&1q' > weather.json
 ```
@@ -40,3 +38,5 @@ curl 'wttr.in/ego?format=j1&1q' > weather.json
 ##### Полезнные ссылки
 - [Пример использования](https://lecturesnet.readthedocs.io/net/requests/c.html?ysclid=lg3yf16eb816592222#wttr-in)  
 - [Статья на OpenNET: Просмотр прогноза погоды из терминала](https://www.opennet.ru/tips/info/3013.shtml)
+
+#### Компиляция
